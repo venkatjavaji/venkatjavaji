@@ -1,4 +1,4 @@
-👋 Hi, I'm Venkatesh Javaji (Venkat / VJ)
+👋 Hi, I'm **Venkatesh Javaji (Venkat / VJ)**
 
 Welcome to my GitHub profile.
 
