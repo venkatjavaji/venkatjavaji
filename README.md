@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I’m a Staff / Lead Software Engineer and full-stack developer with 13+ years of experience building and modernizing large-scale, enterprise-grade systems. I specialize in backend and cloud-native architectures, modern frontend applications, and distributed systems designed for performance, security, and long-term maintainability.
+I’m a **Staff / Lead Software Engineer** and full-stack developer with 13+ years of experience building and modernizing large-scale, enterprise-grade systems. I specialize in backend and cloud-native architectures, modern frontend applications, and distributed systems designed for performance, security, and long-term maintainability.
 
 I’ve worked across global organizations and high-impact teams, contributing to mission-critical platforms in finance, payments, and data-intensive domains.
 
